@@ -14,7 +14,7 @@
   🤝 Open to collaborations! If you have projects related to MERN stack, C++, or Java, I'm eager to contribute my skills and knowledge.
 </p>
 <p align="center">
-  🔒 Seeking to enhance my ethical hacking skills, driven by the goal of creating a safer digital landscape through vulnerability discovery and strengthened security measures.
+  🔒 Seeking to enhance my full stack development skills, driven by the goal of creating a seamless and efficient digital experience through innovative application design and architecture.
 </p>
 <p align="center">
   💬 Software testing is also within my skill set, so I can help you ensure your applications are robust and bug-free.
