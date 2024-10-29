@@ -24,7 +24,7 @@
 </p>
 
 <h3>Get in Touch With Me </h3>
-<p> 
+<p align="center"> 
   <a href="https://www.linkedin.com/in/safi-ur-rahman-6b5209244/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safi-ur-rahman" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJftLhTjgvbLjHgxkPNBbQSxDwKGlSdHnPKmNCnDmbcLgjWvjnXqRSGWQdFNpPmNvjRdzcg" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="safi-ur-rahman" height="30" width="40" /></a>
 </p>
