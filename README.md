@@ -7,24 +7,24 @@
 </div>
 <h2 align="center">I'm Safi ur Rahman</h2>
 
-<p align="center">
+<p>
   💻 Currently, I'm honing my expertise in the MERN stack.
 </p>
-<p align="center">
+<p>
   🤝 Open to collaborations! If you have projects related to MERN stack, C++, or Java, I'm eager to contribute my skills and knowledge.
 </p>
-<p align="center">
+<p>
   🔒 Seeking to enhance my full stack development skills, driven by the goal of creating a seamless and efficient digital experience through innovative application design and architecture.
 </p>
-<p align="center">
+<p>
   💬 Software testing is also within my skill set, so I can help you ensure your applications are robust and bug-free.
 </p>
-<p align="center">
+<p>
   ⚡ Why did the programmer get kicked out of the party? They refused to merge with the crowd.
 </p>
 
-<h3 align="center">Get in Touch With Me </h3>
-<p align="center"> 
+<h3>Get in Touch With Me </h3>
+<p> 
   <a href="https://www.linkedin.com/in/safi-ur-rahman-6b5209244/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safi-ur-rahman" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJftLhTjgvbLjHgxkPNBbQSxDwKGlSdHnPKmNCnDmbcLgjWvjnXqRSGWQdFNpPmNvjRdzcg" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="safi-ur-rahman" height="30" width="40" /></a>
 </p>
