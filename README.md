@@ -8,19 +8,13 @@
 <h2 align="center">I'm Safi ur Rahman</h2>
 
 <p>
-  💻 Currently, I'm honing my expertise in the MERN stack.
+  💻 Currently working as an SDET, specializing in software testing with Playwright and TypeScript.
 </p>
 <p>
-  🤝 Open to collaborations! If you have projects related to MERN stack, C++, or Java, I'm eager to contribute my skills and knowledge.
+  🤝 Available for freelance MERN stack projects! With a strong foundation in full stack development, I'm ready to tackle web applications from end to end.
 </p>
 <p>
-  🔒 Seeking to enhance my full stack development skills, driven by the goal of creating a seamless and efficient digital experience through innovative application design and architecture.
-</p>
-<p>
-  💬 Software testing is also within my skill set, so I can help you ensure your applications are robust and bug-free.
-</p>
-<p>
-  ⚡ Why did the programmer get kicked out of the party? They refused to merge with the crowd.
+  🔍 Focused on building reliable and high-quality applications, I'm skilled in testing methodologies to ensure robust, bug-free performance.
 </p>
 
 <h3 align="center">Get in Touch With Me </h3>
