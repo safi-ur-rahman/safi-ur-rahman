@@ -17,15 +17,15 @@
   🔍 Focused on building reliable and high-quality applications, I'm skilled in testing methodologies to ensure robust, bug-free performance.
 </p>
 
-<h3 align="center">Get in Touch With Me </h3>
-<p align="center"> 
+<h3>Get in Touch With Me </h3>
+<p> 
   <a href="https://www.linkedin.com/in/safi-ur-rahman-6b5209244/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safi-ur-rahman" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJftLhTjgvbLjHgxkPNBbQSxDwKGlSdHnPKmNCnDmbcLgjWvjnXqRSGWQdFNpPmNvjRdzcg" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="safi-ur-rahman" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+<h3>Languages and Tools</h3>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,dotnet,react,express,c,cpp,cs,java,py,eclipse,git,github,ubuntu,linux,mongodb,mysql,nodejs,powershell,vite,vercel,npm,figma,visualstudio,vscode,replit&perline=7" />
   </a>
@@ -61,7 +61,7 @@
   </picture>
 </p>
 -->
-<p align="center">
+<p>
   <picture align="center">
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=safi-ur-rahman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
@@ -77,6 +77,6 @@
 
 <br><br>
 
-<p align="center">
+<p>
   Let's collaborate, share ideas, and build amazing things together! 😄
 </p>
