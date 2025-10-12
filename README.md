@@ -34,8 +34,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safi-ur-rahman&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safi-ur-rahman&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=safi-ur-rahman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safi-ur-rahman&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 </p>
 
 ---
@@ -54,12 +54,6 @@
   <a href="https://github.com/safi-ur-rahman" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=safi-ur-rahman&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views" />
 </p>
 
 ---
