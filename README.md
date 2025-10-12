@@ -45,7 +45,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:safiurrahman675@gmail.com" target="_blank">
+  <a href="mailto:iamsafich@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
   &nbsp;&nbsp;
