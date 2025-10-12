@@ -1,82 +1,69 @@
-<p align="right"> <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=safi-ur-rahman&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</a> </p>
+<h1 align="center">👋 Hey, I'm Safi ur Rahman</h1>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" width="100"/>
-</div>
-<h2 align="center">I'm Safi ur Rahman</h2>
-
-<p>
-  💻 Currently working as an SDET, specializing in software testing with Playwright and TypeScript.
-</p>
-<p>
-  🤝 Available for freelance MERN stack projects! With a strong foundation in full stack development, I'm ready to tackle web applications from end to end.
-</p>
-<p>
-  🔍 Focused on building reliable and high-quality applications, I'm skilled in testing methodologies to ensure robust, bug-free performance.
+<p align="center">
+  🚀 <b>Full Stack Software Engineer</b> <br>
+  Building high-performance, scalable web applications and backend systems with modern tech.
 </p>
 
-<h3>Get in Touch With Me </h3>
-<p> 
-  <a href="https://www.linkedin.com/in/safi-ur-rahman-6b5209244/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safi-ur-rahman" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJftLhTjgvbLjHgxkPNBbQSxDwKGlSdHnPKmNCnDmbcLgjWvjnXqRSGWQdFNpPmNvjRdzcg" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="safi-ur-rahman" height="30" width="40" /></a>
+---
+
+### 🧠 About Me
+
+- 💼 Currently working as a **Full Stack Software Engineer**
+- ⚙️ Experienced with **Next.js**, **NestJS**, **Node.js**, **Express**, and **TypeScript**
+- 🧩 Skilled in designing **microservice-based architectures** with **Redis**, **NATS**, and **Docker**
+- 💡 Focused on clean architecture, maintainability, and developer-friendly systems
+- 🧪 Previously worked in **automated testing (Playwright)** — ensuring reliability and quality across projects
+- 🌱 Always exploring ways to optimize backend performance and enhance user experience
+
+---
+
+### 🛠️ Tech Stack
+
+#### ⚙️ Backend
+`NestJS` • `Node.js` • `Express` • `Prisma` • `PostgreSQL` • `Redis` • `NATS` • `REST APIs` • `Microservices`
+
+#### 🖥️ Frontend
+`Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `Vite` • `ShadCN UI` • `Framer Motion`
+
+#### 🧪 Tools & Workflow
+`Git` • `GitHub` • `Docker` • `Linux` • `CI/CD` • `Playwright` • `Postman` • `VS Code`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=safi-ur-rahman&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safi-ur-rahman&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<h3>Languages and Tools</h3>
+---
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,dotnet,react,express,c,cpp,cs,java,py,eclipse,git,github,ubuntu,linux,mongodb,mysql,nodejs,powershell,vite,vercel,npm,figma,visualstudio,vscode,replit&perline=7" />
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/safi-ur-rahman-6b5209244/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:safiurrahman675@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/safi-ur-rahman" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
 </p>
 
-<!--
+---
+
 <p align="center">
-  <picture align="center">
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=safi-ur-rahman&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=safi-ur-rahman&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=safi-ur-rahman&show_icons=true" />
-  </picture>
-</p>
--->
-<!--
-<p align="center">
-  <picture align="center">
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=safi-ur-rahman&theme=dark&show_icons=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=safi-ur-rahman&theme=dark&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=safi-ur-rahman&theme=dark&show_icons=true" />
-  </picture>
-</p>
--->
-<p>
-  <picture align="center">
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=safi-ur-rahman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=safi-ur-rahman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safi-ur-rahman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  </picture>
+  <img src="https://visitcount.itsvg.in/api?id=safi-ur-rahman&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views" />
 </p>
 
-<br><br>
+---
 
-<p>
-  Let's collaborate, share ideas, and build amazing things together! 😄
+<p align="center">
+  💡 <i>“Craft systems that scale, code that speaks clearly, and software that lasts.”</i>
 </p>
