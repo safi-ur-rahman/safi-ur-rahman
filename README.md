@@ -59,7 +59,3 @@
 <p align="center">
   💡 <i>“Craft systems that scale, code that speaks clearly, and software that lasts.”</i>
 </p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=safi-ur-rahman&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views" />
-</p>
