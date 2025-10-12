@@ -23,8 +23,8 @@
 | **Category** | **Technologies** |
 |---------------|------------------|
 | 🖥️ **Frontend** | Next.js • React • TypeScript • Tailwind CSS • Vite • ShadCN UI • Framer Motion |
-| ⚙️ **Backend** | NestJS • Node.js • Express • Prisma • PostgreSQL • Redis • NATS • Microservices |
-| 🧪 **Testing & Tools** | Playwright • Jest • Postman • Docker • Git • Linux • CI/CD • VS Code |
+| ⚙️ **Backend** | NestJS • Node.js • Express • Prisma • PostgreSQL • MongoDB • Redis • NATS • Microservices |
+| 🧪 **Testing & Tools** | Playwright • Postman • Docker • Git • Linux • CI/CD • VS Code |
 
 ---
 
