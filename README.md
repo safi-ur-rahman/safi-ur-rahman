@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 <b>Full Stack Software Engineer</b> <br>
-  Building high-performance, scalable web applications and backend systems with modern tech.
+  Building high-performance, scalable web applications and backend systems with modern technologies.
 </p>
 
 ---
@@ -10,33 +10,31 @@
 ### 🧠 About Me
 
 - 💼 Currently working as a **Full Stack Software Engineer**
-- ⚙️ Experienced with **Next.js**, **NestJS**, **Node.js**, **Express**, and **TypeScript**
-- 🧩 Skilled in designing **microservice-based architectures** with **Redis**, **NATS**, and **Docker**
-- 💡 Focused on clean architecture, maintainability, and developer-friendly systems
-- 🧪 Previously worked in **automated testing (Playwright)** — ensuring reliability and quality across projects
-- 🌱 Always exploring ways to optimize backend performance and enhance user experience
+- ⚙️ Skilled in **Next.js**, **NestJS**, **Node.js**, **Express**, and **TypeScript**
+- 🧩 Designing **microservice-based architectures** powered by **Redis**, **NATS**, and **Docker**
+- 💡 Passionate about **clean architecture**, **developer experience**, and **system scalability**
+- 🧪 Experienced in **automated testing (Playwright)** to ensure reliability across projects
+- 🌱 Continuously learning and experimenting with **distributed systems** and **DevOps pipelines**
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack at a Glance
 
-#### ⚙️ Backend
-`NestJS` • `Node.js` • `Express` • `Prisma` • `PostgreSQL` • `Redis` • `NATS` • `REST APIs` • `Microservices`
-
-#### 🖥️ Frontend
-`Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `Vite` • `ShadCN UI` • `Framer Motion`
-
-#### 🧪 Tools & Workflow
-`Git` • `GitHub` • `Docker` • `Linux` • `CI/CD` • `Playwright` • `Postman` • `VS Code`
+| **Category** | **Technologies** |
+|---------------|------------------|
+| 🖥️ **Frontend** | Next.js • React • TypeScript • Tailwind CSS • Vite • ShadCN UI • Framer Motion |
+| ⚙️ **Backend** | NestJS • Node.js • Express • Prisma • PostgreSQL • Redis • NATS • Microservices |
+| 🧪 **Testing & Tools** | Playwright • Jest • Postman • Docker • Git • Linux • CI/CD • VS Code |
 
 ---
 
-### 📊 GitHub Stats
+### 🎯 Focus Areas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safi-ur-rahman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safi-ur-rahman&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-</p>
+- ⚙️ Scalable Backend Architectures  
+- 🧩 API Design & Integration  
+- 🐳 Containerization & Deployment  
+- 🧪 Testing Automation  
+- 💬 Developer Experience (DX)
 
 ---
 
@@ -60,4 +58,8 @@
 
 <p align="center">
   💡 <i>“Craft systems that scale, code that speaks clearly, and software that lasts.”</i>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=safi-ur-rahman&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views" />
 </p>
