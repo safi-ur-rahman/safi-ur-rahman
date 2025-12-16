@@ -1,71 +1,20 @@
 <h1 align="center">Safi ur Rahman</h1>
 
 <p align="center">
-  Full Stack Software Engineer<br/>
-  Building scalable web applications and backend systems with modern technologies
+  Full Stack Software Engineer
 </p>
 
 ---
 
-## About
+I’m a full stack engineer who enjoys building systems that are easy to work with, scale well, and don’t fall apart under real-world usage. I spend most of my time working across backend-heavy applications, but I’m comfortable owning features end to end when needed.
 
-I’m a Full Stack Software Engineer focused on building reliable, scalable, and maintainable systems.  
-I enjoy working across the stack — from intuitive frontend interfaces to robust backend architectures — with a strong emphasis on clean design, performance, and developer experience.
+On the frontend, I mainly work with Next.js and React using TypeScript, focusing on clean UI, predictable state, and maintainable code. On the backend, I build APIs and services with NestJS, Node.js, and Express, usually backed by PostgreSQL or MongoDB and structured around Prisma.
 
-I’m particularly interested in distributed systems, microservice architectures, and modern DevOps practices.
+A lot of my experience is around microservice-based systems — designing services, handling async communication with NATS, using Redis where it makes sense, and running everything in Docker. I care about how systems behave in production, not just how they look in development.
 
----
+I also put time into testing and reliability. I’ve used Playwright and Postman for automated and manual testing, and I like setting things up so issues are caught early rather than after deployment.
 
-## Technical Skills
+I’m always learning, especially around distributed systems, infrastructure, and better ways to ship and maintain software without over-engineering it.
 
-**Frontend**
-- Next.js, React, TypeScript
-- Tailwind CSS, ShadCN UI, Framer Motion
-- Vite
-
-**Backend**
-- NestJS, Node.js, Express
-- Prisma, PostgreSQL, MongoDB
-- Redis, NATS
-- Microservice architectures
-
-**Testing & Tooling**
-- Playwright, Postman
-- Docker, Git, Linux
-- CI/CD pipelines
-- VS Code
-
----
-
-## Areas of Focus
-
-- Scalable backend system design  
-- API architecture and integration  
-- Microservices and event-driven systems  
-- Containerization and deployment  
-- Automated testing and reliability  
-- Developer experience and clean architecture  
-
----
-
-## Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/safi-ur-rahman-6b5209244/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="36" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:iamsafich@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="36" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/safi-ur-rahman" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="36" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Focused on writing clear code, designing scalable systems, and building software that lasts.</i>
-</p>
+**Tech I work with regularly:**  
+Next.js, React, TypeScript, NestJS, Node.js, Express, Prisma, PostgreSQL, MongoDB, Redis, NATS, Docker, Playwright, Git, Linux
