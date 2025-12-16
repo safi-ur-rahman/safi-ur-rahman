@@ -8,13 +8,11 @@
 
 I work on web applications and backend systems, mostly focused on making things scale without becoming hard to reason about.
 
-Most of my time goes into:
-- Next.js and React with TypeScript
-- NestJS, Node.js, and Express
-- PostgreSQL, MongoDB, Prisma
-- Microservices using Redis, NATS, and Docker
+On the frontend, I usually work with Next.js and React using TypeScript. On the backend, I build APIs and services with NestJS, Node.js, and Express, typically backed by PostgreSQL or MongoDB and modeled with Prisma.
 
-I tend to favor boring solutions that work, clear boundaries between services, and code that doesn’t need a long explanation six months later.
+A lot of my work involves microservice-based systems — using Redis for caching and coordination, NATS for messaging, and Docker to keep environments consistent.
 
-I also use automated testing (Playwright) and basic DevOps tooling like Docker, Git, and CI/CD to keep deployments predictable.
+I tend to favor boring solutions that work, clear service boundaries, and code that still makes sense months later.
+
+Automated testing with Playwright and a simple CI/CD setup help keep things predictable once they’re running in production.
 
