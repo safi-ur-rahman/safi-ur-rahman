@@ -1,61 +1,71 @@
-<h1 align="center">👋 Hey, I'm Safi ur Rahman</h1>
+<h1 align="center">Safi ur Rahman</h1>
 
 <p align="center">
-  🚀 <b>Full Stack Software Engineer</b> <br>
-  Building high-performance, scalable web applications and backend systems with modern technologies.
+  Full Stack Software Engineer<br/>
+  Building scalable web applications and backend systems with modern technologies
 </p>
 
 ---
 
-### 🧠 About Me
+## About
 
-- 💼 Currently working as a **Full Stack Software Engineer**
-- ⚙️ Skilled in **Next.js**, **NestJS**, **Node.js**, **Express**, and **TypeScript**
-- 🧩 Designing **microservice-based architectures** powered by **Redis**, **NATS**, and **Docker**
-- 💡 Passionate about **clean architecture**, **developer experience**, and **system scalability**
-- 🧪 Experienced in **automated testing (Playwright)** to ensure reliability across projects
-- 🌱 Continuously learning and experimenting with **distributed systems** and **DevOps pipelines**
+I’m a Full Stack Software Engineer focused on building reliable, scalable, and maintainable systems.  
+I enjoy working across the stack — from intuitive frontend interfaces to robust backend architectures — with a strong emphasis on clean design, performance, and developer experience.
+
+I’m particularly interested in distributed systems, microservice architectures, and modern DevOps practices.
 
 ---
 
-### 🧰 Tech Stack at a Glance
+## Technical Skills
 
-| **Category** | **Technologies** |
-|---------------|------------------|
-| 🖥️ **Frontend** | Next.js • React • TypeScript • Tailwind CSS • Vite • ShadCN UI • Framer Motion |
-| ⚙️ **Backend** | NestJS • Node.js • Express • Prisma • PostgreSQL • MongoDB • Redis • NATS • Microservices |
-| 🧪 **Testing & Tools** | Playwright • Postman • Docker • Git • Linux • CI/CD • VS Code |
+**Frontend**
+- Next.js, React, TypeScript
+- Tailwind CSS, ShadCN UI, Framer Motion
+- Vite
+
+**Backend**
+- NestJS, Node.js, Express
+- Prisma, PostgreSQL, MongoDB
+- Redis, NATS
+- Microservice architectures
+
+**Testing & Tooling**
+- Playwright, Postman
+- Docker, Git, Linux
+- CI/CD pipelines
+- VS Code
 
 ---
 
-### 🎯 Focus Areas
+## Areas of Focus
 
-- ⚙️ Scalable Backend Architectures  
-- 🧩 API Design & Integration  
-- 🐳 Containerization & Deployment  
-- 🧪 Testing Automation  
-- 💬 Developer Experience (DX)
+- Scalable backend system design  
+- API architecture and integration  
+- Microservices and event-driven systems  
+- Containerization and deployment  
+- Automated testing and reliability  
+- Developer experience and clean architecture  
 
 ---
 
-### 🌐 Connect With Me
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/safi-ur-rahman-6b5209244/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:iamsafich@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="36" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/safi-ur-rahman" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
+    <img src="https://skillicons.dev/icons?i=github" height="36" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  💡 <i>“Craft systems that scale, code that speaks clearly, and software that lasts.”</i>
+  <i>Focused on writing clear code, designing scalable systems, and building software that lasts.</i>
 </p>
